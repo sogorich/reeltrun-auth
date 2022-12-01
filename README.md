@@ -87,7 +87,7 @@ app.mount("/path", auth_app)
 - **app**: Экземпляр Вашего приложения FastAPI;
 - **auth_app**: Экземпляр сервиса авторизации.
 
-## Технолгический стек проекта
+## Технологический стек проекта
 - Фреймворк FastAPI
 - Object Relation Mapping Tortoise ORM
 - Миграции Aerich
