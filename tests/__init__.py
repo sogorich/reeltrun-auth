@@ -1,0 +1,1 @@
+import os; os.environ['DATABASE_DSN'] = "sqlite://:memory:"
